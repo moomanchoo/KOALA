@@ -4,8 +4,8 @@
         "url_png_logo": "https://raw.githubusercontent.com/lead-pool/l/master/i.png",
         "location": "",
         "social": {
-            "twitter_handle": "LEAD_Stake_Pool",
-            "telegram_handle": "LEAD_Stake_Pool",
+            "twitter_handle": "KOALA_Steve",
+            "telegram_handle": "KOALA_Steve",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -21,14 +21,14 @@
             "vat_id": ""
         },
         "about": {
-            "me": "Computing graduate from the University of Leeds (UK), Current location – Australia. 8 years work experience as a programmer in the financial services industry with a particular focus on building tax engines",
-            "server": "1 Block producer and 2 Relays Each on separate nodes - CPU: 4v Cores per node, RAM: 8GB per node, HD: 80GB NVME per node, Bandwidth: 1 Gbps per node",
-            "company": "At LEAD we believe that stake pool operators should help and communicate with current and potential delegators as much as possible. All rewards earned will currently remain in the pool to increase pledge amount. Helping to LEAD the way to a decentralised future"
+            "me": "Scientific technician working in nanofabrication & metrology, Current location – Australia. Looking after over $6 Million in scientific instruments",
+            "server": "1 Block producer, 1 Backup Block producer, and 2 Relays, all on separate hardware. Block producer 8 CPU 16 GB ram (bare-metal), others 2 CPU 4 GB ram (easy to scale cloud-based systems)",
+            "company": "At Koala pool we believe in giving back & decentralisation. At least 10 % of pool proft to help Koalas. we are currenty working indise the IOHK Catalyst program...stay tunned for detials!"
         },
         "rss": ""
     },
     "my-pool-ids": {
-        "0": "ec6cdcad62633e065be5d96eecea28464144a1827adc0cba98d29a23",
+        "0": "9138b6f09e8e69c29fdee4e11b147b7ad351aab23fc73a9976907f10",
         "1": ""
     },
     "when-satured-then-recommend": {
