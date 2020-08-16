@@ -3,5 +3,5 @@
   "description": "Stake with us and help save Koalas during the Australian bushfire season.",
   "ticker": "KOALA",
   "homepage": "https://koalapool.org",
-  "extended":"url"
+  "extended":"https://raw.githubusercontent.com/moomanchoo/KOALA/master/e-meta.json"
   }
