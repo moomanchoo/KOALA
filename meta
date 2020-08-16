@@ -1,6 +1,7 @@
   {
-  "name": "TestPool",
-  "description": "The pool that tests all the pools",
-  "ticker": "TEST",
-  "homepage": "https://teststakepool.com"
+  "name": "Koala Pool help save Koalas",
+  "description": "Stake with us and help save Koalas during the Australian bushfire season.",
+  "ticker": "KOALA",
+  "homepage": "https://koalapool.org",
+  "extended":"url"
   }
