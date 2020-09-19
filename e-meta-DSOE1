@@ -1,1 +1,41 @@
-7c289f3d27f864c0dbff814c29a8dcc097eb135fa3159ed1d2927483
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/moomanchoo/KOALA/master/koala-icon.png",
+        "url_png_logo": "https://github.com/moomanchoo/KOALA/raw/master/Koala-pool.png",
+        "location": "",
+        "social": {
+            "twitter_handle": "KOALA_Steve",
+            "telegram_handle": "KOALA_Steve",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Scientific technician working in nanofabrication & metrology, Current location – Australia. Looking after over $6 Million in scientific instruments",
+            "server": "1 Block producer, 1 Backup Block producer, and 2 Relays, all on separate hardware. Block producer 8 CPU 16 GB ram (bare-metal), others 2 CPU 8 GB ram (easy to scale cloud-based systems)",
+            "company": "At Koala pool we believe in giving back & decentralisation. At least 10 % of pool profit to help Koalas. We are currently working inside the IOHK Catalyst program...stay tuned for details!"
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "9138b6f09e8e69c29fdee4e11b147b7ad351aab23fc73a9976907f10",
+        "1": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    }
+}
