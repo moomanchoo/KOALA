@@ -2,7 +2,7 @@
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/moomanchoo/KOALA/master/koala-logo-round-64x64.png",
         "url_png_logo": "https://github.com/moomanchoo/KOALA/raw/master/koala-full-logo.PNG",
-        "location": "",
+        "location": "Sydney, Australia",
         "social": {
             "twitter_handle": "KOALA_Steve",
             "telegram_handle": "KOALA_Steve",
@@ -13,17 +13,17 @@
             "github_handle": ""
         },
         "company": {
-            "name": "",
+            "name": "Koala Pool",
             "addr": "",
-            "city": "",
-            "country": "",
+            "city": "Sydney",
+            "country": "Australia",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
-            "me": "Scientific technician working in nanofabrication & metrology, Current location – Australia. Looking after over $6 Million in scientific instruments",
-            "server": "1 Block producer, 1 Backup Block producer, and 2 Relays, all on separate hardware. Block producer 8 CPU 16 GB ram (bare-metal), others 2 CPU 8 GB ram (easy to scale cloud-based systems)",
-            "company": "At Koala pool we believe in giving back & decentralisation. At least 10 % of pool profit to help Koalas. We are currently working inside the IOHK Catalyst program...stay tuned for details!"
+            "me": "Scientific technician in micro/nano fabrication & metrology, Caring for over $6 Million in scientific instruments. Passionate about Cardano, decentralisation and giving back.",
+            "server": " A mix of bare-metal and clould servers, balancing decentralisaiton & resilience. We use a small cloud provider and minimum 4 CPU 16GB ram servers",
+            "company": "At Koala pool we believe in giving back & decentralisation. A committed single pool operation, as of epoch 236 35% of pool profit when to saving Koalas. Future plans to build on Cardano"
         },
         "rss": ""
     },
